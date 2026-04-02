@@ -1,7 +1,7 @@
 # Shivam Parab | Software Engineer & Game Developer 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Parab-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam-parab-3b747b150/)
-[![Portfolio](https://img.shields.io/badge/sp-portfolio-nine.vercel.app-purple?style=flat-square&logo=google-chrome)](https://sp-portfolio-nine.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sp--portfolio.vercel.app-purple?style=flat-square&logo=google-chrome)](https://sp-portfolio-nine.vercel.app)
 [![Email](https://img.shields.io/badge/Email-parabshivam%40gmail.com-red?style=flat-square&logo=gmail)](mailto:parabshivam@gmail.com)
 
 High-performance **Software Engineer** and **Game Developer** with an **MSc in Software Engineering** and 4+ years of experience across full-stack development, backend systems, and high-fidelity game programming. I specialize in building secure, scalable applications and AI-driven gameplay experiences.
