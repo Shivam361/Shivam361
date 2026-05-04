@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Shivam+Parab;Software+Engineer+%7C+Game+Developer)](https://git.io/typing-svg)
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Parab-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam-parab-3b747b150/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sp--portfolio.vercel.app-purple?style=flat-square&logo=google-chrome)](https://sp-portfolio-nine.vercel.app)
 [![Email](https://img.shields.io/badge/Email-parabshivam%40gmail.com-red?style=flat-square&logo=gmail)](mailto:parabshivam@gmail.com)
